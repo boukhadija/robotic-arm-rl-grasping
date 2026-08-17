@@ -39,14 +39,23 @@ Status
 🚧 In progress — CATIA design complete, working on STL export and URDF setup.
 
 Roadmap
+
 (done) Design 3-joint arm in CATIA
+
  Export STLs and write URDF
+ 
  Load and verify arm in PyBullet
+ 
  Build custom Gymnasium environment
+ 
  Implement reward function
+ 
  Train baseline DQN agent
+ 
  Evaluate and iterate on reward shaping
+ 
  Record demo video / results
+ 
  
 Author
 
