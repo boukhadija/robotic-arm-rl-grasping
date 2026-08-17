@@ -40,7 +40,7 @@ Status
 
 Roadmap
 
-(done) Design 3-joint arm in CATIA
+(done) Design 6-joint arm in CATIA
 
  Export STLs and write URDF
  
