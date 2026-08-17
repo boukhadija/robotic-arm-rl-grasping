@@ -3,7 +3,7 @@ robotic-arm-rl-grasping
 
 Robotic Arm Grasping with Reinforcement Learning
 
-A 3-joint robotic arm, designed in CATIA and trained in simulation to learn how to grasp objects using reinforcement learning.
+A 6-joint robotic arm, designed in CATIA and trained in simulation to learn how to grasp objects using reinforcement learning.
 
 Overview
 
