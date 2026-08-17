@@ -29,12 +29,19 @@ Project Scope
 - Objects to grasp: simple shapes (cubes, cylinders) placed in the simulated environment
 - Obstacles: static objects the arm must learn to avoid while reaching for targets
 Pipeline
+
 1- Design — arm modeled and assembled in CATIA
+
 2- Export — each link exported individually as STL
+
 3- URDF — links and joints described in a URDF file for simulation
+
 4- Environment — custom Gymnasium environment built in PyBullet (arm, table, objects, obstacles)
+
 5- Training — DQN agent trained to reach and grasp objects via a reward function (distance-based shaping + grasp success bonus + collision penalty)
+
 6- Evaluation — success rate and average reward tracked across training
+
 Status
 
 🚧 In progress — CATIA design complete, working on STL export and URDF setup.
