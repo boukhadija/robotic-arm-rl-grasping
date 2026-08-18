@@ -13,7 +13,7 @@ The project is simulation-only (no physical hardware build).
 
 Motivation
 
-Built as a portfolio project bridging a mechanical engineering background with machine learning / AI engineering — specifically exploring the hardware-software interface through robotics.
+Personal interest in bridging a mechanical engineering background with machine learning / AI engineering — specifically exploring the hardware-software interface through robotics.
 
 Tech Stack
 - CATIA — 3D mechanical design of the arm (base, links, gripper)
